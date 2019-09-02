@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviePlayer", "MoviePlayer\MoviePlayer.csproj", "{68CB7669-8BD5-478F-ABD0-27E1EE8F3EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMoviePlayer", "UnitTestMoviePlayer\UnitTestMoviePlayer.csproj", "{D2989B8B-BB72-443B-9D78-500A6A6C44E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68CB7669-8BD5-478F-ABD0-27E1EE8F3EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68CB7669-8BD5-478F-ABD0-27E1EE8F3EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68CB7669-8BD5-478F-ABD0-27E1EE8F3EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2989B8B-BB72-443B-9D78-500A6A6C44E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2989B8B-BB72-443B-9D78-500A6A6C44E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2989B8B-BB72-443B-9D78-500A6A6C44E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2989B8B-BB72-443B-9D78-500A6A6C44E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
